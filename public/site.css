@@ -73,3 +73,12 @@ footer {
 #borderMe {
   border: 3px solid gray;
 }
+
+
+footer a {
+  color: white;
+}
+
+footer a:hover {
+  color: #77f;
+}
